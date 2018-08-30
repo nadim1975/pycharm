@@ -81,6 +81,11 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="6a8b5dbb-7799-42de-a748-b216c099b71b" />
   </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="nadim1975" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="pycharm" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -121,7 +126,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/variables-rules.py" />
+    <property name="last_opened_file_path" value="C:/Git" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -266,12 +271,18 @@
       <option name="project" value="LOCAL" />
       <updated>1535588648315</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="NH second version">
+      <created>1535589787329</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1535589787329</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4983108" visible="true" weight="0.17874141" />
       <window_info id="Structure" order="1" sideWeight="0.5016892" side_tool="true" visible="true" weight="0.17874141" />
