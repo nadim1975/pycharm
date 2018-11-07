@@ -1,7 +1,9 @@
 """
 Built-in methods to help manipulating a list
 """
-
+a,b = 10,20
+a= 14
+print ('a=%i  and b=%i'%(a,b))
 cars = [ "bmw", "honda", "audi"]
 
 length = len(cars)
@@ -34,5 +36,12 @@ print(a)
 print("*#"*20)
 print(cars)
 cars.sort()
+print(cars)
+cars.reverse()
 
 print(cars)
+
+i=[1, 2, 3, 3, 2, 1]
+print (i[4:])
+print (i[-2:])
+print (i[4:6])
